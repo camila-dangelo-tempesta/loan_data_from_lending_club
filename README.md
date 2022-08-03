@@ -48,4 +48,4 @@ In addition, we will use the dataset with a quotation of the dollar against the 
 - [x] **Step 03:** **Feature Enginering**:
 
 
-- [x] **Step 03:** **Data Filtering**: 
+- [x] **Step 03:** ** **: 
