@@ -35,3 +35,17 @@ Data from [Loan data from Lending Club](https://www.openintro.org/data/index.php
 In addition, we will use the dataset with a quotation of the dollar against the euro. we extracted a small sample of data from the [website](https://finance.yahoo.com)
 
 ***
+## 3. SOLUTION PLANNING
+
+- [x] **Step 01:** **Data Description**:
+
+
+- [x] **Step 02:** **Data Cleaning**:
+	- Handling Categorical Variables
+	- Handling Numerical Variables
+
+
+- [x] **Step 03:** **Feature Enginering**:
+
+
+- [x] **Step 03:** **Data Filtering**: 
