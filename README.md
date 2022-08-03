@@ -11,7 +11,7 @@ It is exactly this scenario that we are reproducing in this case study 1.
 
 <div align="center">
 <p float="left">
-    <img src="/images/.png" width="1000" height="500"/>
+    <img src="/images/LendingClubLogo.png" width="1000" height="500"/>
 </p>
 </div>
 
